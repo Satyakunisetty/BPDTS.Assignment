@@ -18,8 +18,11 @@
 3. How to Build and Run the project
 
    a. Open the solution file with Visual studio either in 2017/2019
+   
    b. Build the solution 
+   
    c. Once the solution is successfully built, navigate to Test Explorer.
+   
    d. Execute all scenarios from Test Explorer.
 
 4. Implementation details are mentioned below.
