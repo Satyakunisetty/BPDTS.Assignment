@@ -1,6 +1,7 @@
 1. Environment/Pre-requisites : 
 
       a. .Net Core 2.2
+      
       b. Compatible with Visual studio 2017 & 2019 (In interest of time, have checked with these two visual studio versions)
 
 2. Nuget Packages with their versions used :
